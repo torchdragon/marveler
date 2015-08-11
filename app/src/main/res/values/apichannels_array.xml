@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="api_channels">
+        <item>Characters</item>
+        <item>Comics</item>
+        <item>Creators</item>
+        <item>Events</item>
+        <item>Series</item>
+        <item>Stories</item>
+    </string-array>
+</resources>
